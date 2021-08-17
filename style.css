@@ -1,4 +1,64 @@
-garden{
-  width: 50%;
-  height: 50%;
+header {
+      text-align: center;
+      Background: url("https://cdn.wallpapersafari.com/12/45/aBYsDI.jpg");
+      background-size: cover;
+      color: white;
+    }
+    a {
+      color: white;
+    } 
+    a:hover{
+      color:blue;
+    } 
+    h1 {
+      font-size: 90px;
+    }
+   
+    ul {
+      padding: 10px;
+      background: rgb(188,143,143);
+      
+    }
+    
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      
+            
+    }
+    article{
+      max-width: 500px;
+      padding: 10px;
+      margin: 0px auto;
+      }
+      .btn{
+        background-color: rgb(139,69,19);
+        border: 1;
+        text-align: center;
+        color: white;
+        text-indent: 40px;
+         padding-top: 5px;
+  padding-right: 30px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+
+      }
+        .btn:hover{
+          background-color:white;
+          border: 1;
+          text-align: center;
+          color: rgb(139,69,19);
+        }  
+        img src:hover {
+          bordar:5px solid #555;
+}
+        div#row:hover{
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          background-color: rgb(222,184,135);
+ 
+
+        }
+        body {
+  background-color: rgb(139,69,19);
+  color:white;
 }
